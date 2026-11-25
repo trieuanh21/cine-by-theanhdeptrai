@@ -1,0 +1,15 @@
+{
+  "id": "community.cine.theanhdeptrai",
+  "version": "1.0.0",
+  "name": "Cine by TheAnhDepTrai",
+  "description": "Personal movie catalog curated by TheAnhDepTrai",
+  "resources": ["catalog"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "cine_library",
+      "name": "Cine by TheAnhDepTrai"
+    }
+  ]
+}
